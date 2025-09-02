@@ -1,0 +1,19 @@
+{
+  "ArrayName": "IntensityLow",
+  "clips": [
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade1.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade2.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade3.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade4.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade5.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade6.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade7.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade8.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade9.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade11.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade12.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade13.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade14.wav",
+    "https://raw.githubusercontent.com/ffiaa/soundskape/main/audio/RainFade15.wav"
+  ]
+}
